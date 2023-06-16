@@ -1,0 +1,35 @@
+.Arriba
+{
+    background-color: aqua;
+    
+}
+
+#colorBlue
+{
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#colorBlue:hover
+{
+    color: chartreuse;
+}
+
+.botonEstatico
+{
+    position: fixed;
+    top: 85%;
+    left: 90%;
+    z-index: 10;
+}
+
+
+@media screen and (max-width: 480px){
+    .botonEstatico
+    {
+        position: fixed;
+        top: 80%;
+        left: 70%;
+        z-index: 10;
+    }
+}
