@@ -12,10 +12,10 @@
     --main-bg-color : #f0f0f0;
     --gradient-color-A : rgba(0, 24, 119, 0.35);
     --gradient-color-B : rgba(0,0,0,1);
-    --detail-color : rgb(1, 140, 204);
+    --detail-color : hotpink;
     --link-main-text-color: #fff;
     --link-bg-color: rgba(0,0,0,0.5);
-    --line-color: rgb(0, 179, 255);
+    --line-color: blue;
     --border-color: #fff;
     --white-color: white;
     --black-color: black;
